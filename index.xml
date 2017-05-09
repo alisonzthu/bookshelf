@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison&#39;s Portfolio</title>
+    <link>https://alisonzthu.github.io/bookshelf/</link>
+    <description>Recent content on Alison&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Alison Zhang</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://alisonzthu.github.io/bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ArtPoint</title>
+      <link>https://alisonzthu.github.io/bookshelf/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://alisonzthu.github.io/bookshelf/portfolio/work2/</guid>
+      <description>&lt;p&gt;An online platform for up-and-coming artists to auction their artworks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Oranges to Oranges</title>
+      <link>https://alisonzthu.github.io/bookshelf/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://alisonzthu.github.io/bookshelf/portfolio/work7/</guid>
+      <description>&lt;p&gt;An online counterpart of Apples to Apples. Bring three friends to join this fun game!
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pitchme.io</title>
+      <link>https://alisonzthu.github.io/bookshelf/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://alisonzthu.github.io/bookshelf/portfolio/work8/</guid>
+      <description>&lt;p&gt;An social platform for startups to pitch their ideas to potential investors and get funded.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UniM library management system</title>
+      <link>https://alisonzthu.github.io/bookshelf/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://alisonzthu.github.io/bookshelf/portfolio/work10/</guid>
+      <description>&lt;p&gt;A JavaGUI-based, easy-to-use library management system that allows the update of members, books and borrowing records.
+
+&amp;nbsp;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
