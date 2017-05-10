@@ -1,9 +1,9 @@
 /* your styles go here */
 
 img {
-  margin: auto;
+  margin: auto !important;
 }
 
 h5 {
-  text-align: center;
+  text-align: center !important;
 }
