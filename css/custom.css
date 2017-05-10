@@ -1,5 +1,10 @@
 /* your styles go here */
 
+p {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
 p img {
   display: block;
   margin: auto !important;
