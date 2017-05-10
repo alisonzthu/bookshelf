@@ -2,8 +2,7 @@
 
 p img {
   display: block;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin: auto !important;
 }
 
 h5 {
