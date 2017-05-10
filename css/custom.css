@@ -1,7 +1,8 @@
 /* your styles go here */
 
-img {
-  margin: auto !important;
+p > img {
+  display: inline;
+  margin: 0 auto !important;
 }
 
 h5 {
