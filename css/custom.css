@@ -1,13 +1,11 @@
 /* your styles go here */
 
 p {
-  display: table-cell;
-  vertical-align: middle;
-  text-align: center;
+  min-width: 100%;
 }
 p img {
   display: block;
-  margin: auto !important;
+  margin: 0 auto !important;
 }
 
 h5 {
