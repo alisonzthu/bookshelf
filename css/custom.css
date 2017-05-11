@@ -11,3 +11,7 @@ p img {
 h5 {
   text-align: center !important;
 }
+
+.row {
+  width: 100% !important;
+}
