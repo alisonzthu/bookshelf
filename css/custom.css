@@ -15,3 +15,7 @@ h5 {
 .row {
   width: 100% !important;
 }
+
+#col-lg-8-override {
+  width: 100%;
+}
