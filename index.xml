@@ -32,6 +32,15 @@
     </item>
     
     <item>
+      <title>NY Times Best Sellers Mock</title>
+      <link>https://alisonzthu.github.io/bookshelf/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://alisonzthu.github.io/bookshelf/portfolio/work3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pitchme.io</title>
       <link>https://alisonzthu.github.io/bookshelf/portfolio/work8/</link>
       <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
@@ -48,8 +57,7 @@
       
       <guid>https://alisonzthu.github.io/bookshelf/portfolio/work10/</guid>
       <description>&lt;p&gt;A JavaGUI-based, easy-to-use library management system that allows the update of members, books and borrowing records.
-
-&amp;nbsp;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
   </channel>
